@@ -154,7 +154,7 @@
 <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html</a></p>
 <p>Amazon Web Services Elastic Compute Cloud (EC2) Rescue for Linux is a python-based tool that allows for the automatic diagnosis of common problems found on EC2 Linux instances.</p>
 <p><a href="https://github.com/awslabs/aws-ec2rescue-linux">https://github.com/awslabs/aws-ec2rescue-linux</a></p>
-<p>Listing and Filtering Your Resources</p>
+<p>Listing and Filtering Resources</p>
 <p><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Filtering.html">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Filtering.html</a></p>
 <h5 id="community-articles-with-walkthroughs-and-guides">Community Articles with Walkthroughs and Guides</h5>
 <p>EC2 instance metadata proxy for linux containers<br>
