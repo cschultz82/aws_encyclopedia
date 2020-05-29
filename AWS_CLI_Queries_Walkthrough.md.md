@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="querying-with-the-aws-cli-guide-w-examples">Querying with the AWS-CLI, Guide w/ Examples</h1>
+<h1 id="querying-with-the-aws-cli-guide-w-examples">Deliver Real Value Today Using AWS-CLI Queries, Guide w/ Examples</h1>
 <h3 id="managing-logistics-and-configuration">Managing Logistics and Configuration</h3>
 <h5 id="aws-cli-output">AWS CLI Output</h5>
 <p>Official AWS Documentation<br>
