@@ -4,6 +4,7 @@
 ---
 
 <h1 id="useful-documentation-code-and-tools-for-use-on-aws">Useful Documentation, Code, and Tools for use on AWS</h1>
+<h5 id="reach-out-about-having-a-specific-topic-youd-like-to-see-added-also-feel-free-to-edit-and-add-to-this-list-if-youd-like.-over-time-ill-refine-this-list-and-try-to-present-the-most-useful-references-from-the-links-in-page">Reach out about having a specific topic you’d like to see added; also feel free to edit and add to this list if you’d like. Over time, I’ll refine this list and try to present the most useful references from the links in-page</h5>
 <h2 id="top-ten-or-so-useful-links-for-development-on-aws-in-no-particular-order">Top Ten (or so) Useful Links for Development on AWS in No Particular Order</h2>
 <ol>
 <li>
@@ -152,7 +153,7 @@
 <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html</a></p>
 <p>Amazon Web Services Elastic Compute Cloud (EC2) Rescue for Linux is a python-based tool that allows for the automatic diagnosis of common problems found on EC2 Linux instances.</p>
 <p><a href="https://github.com/awslabs/aws-ec2rescue-linux">https://github.com/awslabs/aws-ec2rescue-linux</a></p>
-<p>Listing and Filtering Resources</p>
+<p>Listing and Filtering Your Resources</p>
 <p><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Filtering.html">https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Filtering.html</a></p>
 <h5 id="community-articles-with-walkthroughs-and-guides">Community Articles with Walkthroughs and Guides</h5>
 <p>EC2 instance metadata proxy for linux containers<br>
@@ -525,8 +526,13 @@
 <a href="https://github.com/gkrizek/bash-lambda-layer">https://github.com/gkrizek/bash-lambda-layer</a></p>
 <p>The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.<br>
 <a href="https://github.com/awslabs/aws-lambda-container-image-converter">https://github.com/awslabs/aws-lambda-container-image-converter</a></p>
-<h2 id="general-utilities">General Utilities</h2>
+<h2 id="elastic-kubernetes-service-eks">Elastic Kubernetes Service (EKS)</h2>
 <h5 id="official-aws-publication">Official AWS Publication</h5>
+<h5 id="community-sourced">Community Sourced</h5>
+<p>A curated list of awesome tools for Amazon EKS<br>
+<a href="https://github.com/realvz/awesome-eks">https://github.com/realvz/awesome-eks</a></p>
+<h2 id="general-utilities">General Utilities</h2>
+<h5 id="official-aws-publication-1">Official AWS Publication</h5>
 <p>The AWS Deployment Framework (ADF) is an extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions based on AWS Organizations.<br>
 <a href="https://github.com/awslabs/aws-deployment-framework">https://github.com/awslabs/aws-deployment-framework</a></p>
 <p>Create CloudFormation templates from existing infrastructure – this version of the CloudFormer solution can be used to launch the solution into an existing VPC.<br>
@@ -547,7 +553,7 @@
 <a href="https://github.com/orgs/aws/projects/7">https://github.com/orgs/aws/projects/7</a></p>
 <p>Collection of AWS Scripts<br>
 <a href="https://github.com/marcomoscatiello/aws_scripts">https://github.com/marcomoscatiello/aws_scripts</a></p>
-<h5 id="community-sourced">Community Sourced</h5>
+<h5 id="community-sourced-1">Community Sourced</h5>
 <p>A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.<br>
 <a href="https://github.com/donnemartin/awesome-aws">https://github.com/donnemartin/awesome-aws</a></p>
 <p>Rich Morrow’s Personal Compilation of Helpful AWS Links<br>
