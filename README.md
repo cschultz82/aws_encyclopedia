@@ -4,8 +4,6 @@
 ---
 
 <h1 id="useful-documentation-code-and-tools-for-use-on-aws">Useful Documentation, Code, and Tools for use on AWS</h1>
-<h5 id="rarely-are-solutions-found-online-applicable-or-appropriate-right-out-of-the-box-for-use-in-govcloud-and-team-architecture-but-a-cool-code-snippet-could-spark-an-idea-or-be-of-use">Rarely are solutions found online applicable or appropriate right out of the box for use in GovCloud and team architecture but a cool code snippet could spark an idea or be of use</h5>
-<h5 id="reach-out-about-having-a-specific-topic-youd-like-to-see-added-also-feel-free-to-edit-and-add-to-this-list-if-youd-like.-over-time-ill-refine-this-list-and-try-to-present-the-most-useful-references-from-the-links-in-page">Reach out about having a specific topic you’d like to see added; also feel free to edit and add to this list if you’d like. Over time, I’ll refine this list and try to present the most useful references from the links in-page</h5>
 <h2 id="top-ten-or-so-useful-links-for-development-on-aws-in-no-particular-order">Top Ten (or so) Useful Links for Development on AWS in No Particular Order</h2>
 <ol>
 <li>
