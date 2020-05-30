@@ -655,6 +655,8 @@
 <a href="https://github.com/drewkhoury/awsq">https://github.com/drewkhoury/awsq</a></p>
 <p>JMESPath exploration tool in the terminal<br>
 <a href="https://github.com/jmespath/jmespath.terminal">https://github.com/jmespath/jmespath.terminal</a></p>
+<p>aegea - Amazon Web Services Operator Interface<br>
+<a href="https://github.com/kislyuk/aegea">https://github.com/kislyuk/aegea</a></p>
 <h3 id="shell-scripting">Shell Scripting</h3>
 <p>Bash Scripting Tutorial - 5. If Statements<br>
 <a href="https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php">https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php</a></p>
