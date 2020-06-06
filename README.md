@@ -524,6 +524,8 @@
 <a href="https://gist.github.com/aws-scripting-guy/83d901527fa7adc271da">https://gist.github.com/aws-scripting-guy/83d901527fa7adc271da</a></p>
 <p>Run Bash scripts in AWS Lambda via Layers<br>
 <a href="https://github.com/gkrizek/bash-lambda-layer">https://github.com/gkrizek/bash-lambda-layer</a></p>
+<p>Amazon Web Services Modules (aws-modules, awsm’s) contain pre-written, isolated functions ready to run on one or multiple AWS Lambda functions. Some examples are: functions that send out emails, register users or handle webhooks from other services.<br>
+<a href="https://github.com/awsm-org/awsm">https://github.com/awsm-org/awsm</a></p>
 <p>The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.<br>
 <a href="https://github.com/awslabs/aws-lambda-container-image-converter">https://github.com/awslabs/aws-lambda-container-image-converter</a></p>
 <h2 id="elastic-kubernetes-service-eks">Elastic Kubernetes Service (EKS)</h2>
